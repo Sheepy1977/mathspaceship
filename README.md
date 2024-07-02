@@ -1,6 +1,7 @@
 # Math Spaceship 
 This is my very first game made with Unity.
-You can visit the demo video here:https://www.youtube.com/watch?v=IsMu8IYYPCc
+You can visit the demo video here:https://www.youtube.com/watch?v=IsMu8IYYPCc  
+or Download the Demo at Release page  
 
 If you like it and want to buy me a beer,you can find my Patron page here: patreon.com/SimpleGamesforMobilePhone
 
